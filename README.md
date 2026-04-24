@@ -7,6 +7,7 @@
 [![Seeking](https://img.shields.io/badge/🎯%20Seeking-Cloud%20%26%20DevOps%20Internship-0EA5E9?style=flat-square)](mailto:nithilamandiw@gmail.com)
 [![University](https://img.shields.io/badge/UoW-BSc%20Computer%20Science-1A56DB?style=flat-square)](https://github.com/nithilamandiw)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-22C55E?style=flat-square)](mailto:nithilamandiw@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-nithila.dev-0EA5E9?style=flat-square)](https://nithila.dev)
 
 </div>
 
@@ -145,3 +146,4 @@ class Nithila:
 [![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fnithila--mandiw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithila-mandiw)
 
 </div>
+
