@@ -117,11 +117,15 @@ class Nithila:
 
 <div align="center">
 
-![Nithila's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithilamandiw&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&card_width=450)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nithilamandiw&theme=github_dark" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nithilamandiw&theme=github_dark" height="180"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithilamandiw&layout=compact&theme=github_dark&hide_border=true&card_width=450)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nithilamandiw&theme=github_dark" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nithilamandiw&theme=github_dark&utcOffset=5.5" height="180"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nithilamandiw&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithilamandiw&theme=github_dark" width="100%"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nithilamandiw&theme=github-dark-blue&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 </div>
 
@@ -146,4 +150,3 @@ class Nithila:
 [![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fnithila--mandiw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithila-mandiw)
 
 </div>
-
