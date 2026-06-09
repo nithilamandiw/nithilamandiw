@@ -15,24 +15,6 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class Nithila:
-    name        = "Nithila Thiranagama"
-    university  = "University of Westminster, UK — BSc (Hons) Computer Science (2024–2028)"
-    location    = "Galle, Sri Lanka"
-    experience  = ["VPS/Linux Deployment", "CI/CD", "Backend Dev", "Automation", "Full-Stack"]
-    learning    = ["AWS / GCP", "Kubernetes", "Terraform", "Advanced CI/CD"]
-    open_to     = [
-        "☁️  Cloud Developer Internship",   # preferred
-        "⚙️  DevOps Engineer Internship",   # preferred
-        "🔧  Backend Engineering Role",
-        "🤖  Automation Developer",
-        "💻  Software Engineering Internship",
-        "🌐  Freelance Projects"
-    ]
-    fun_fact    = "I automate repetitive tasks instead of doing them manually 😄"
-```
-
 - ☁️ **Deploying on VPS/Linux** since 2021 — 24/7 uptime, server config, process management
 - ⚙️ Building **CI/CD pipelines** with GitHub Actions and automating deployment workflows
 - 🤖 **Automation & Bot Developer** — Telegram bots integrated with Google Drive API & cloud storage
